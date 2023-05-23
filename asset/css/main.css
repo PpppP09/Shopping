@@ -1214,7 +1214,7 @@
 }
 
 .home-product-item__price-old {
-    margin-left: 10px;
+    margin-left: 12px;
     font-size: 1.4rem;
     color: #666;
     text-decoration: line-through;
@@ -1223,7 +1223,7 @@
 .home-product-item__price-current {
     font-size: 1.5rem;
     color: var(--primary-color);
-    margin-left: 10px;
+    margin-left: 12px;
 }
 
 .home-product-item__action {
